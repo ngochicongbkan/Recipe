@@ -7,12 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2ECC93F21A1845E8004907A2 /* Candice Swanepoel01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93E11A1845E8004907A2 /* Candice Swanepoel01.jpg */; };
+		2ECC93F31A1845E8004907A2 /* Candice Swanepoel02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93E21A1845E8004907A2 /* Candice Swanepoel02.jpg */; };
+		2ECC93F41A1845E8004907A2 /* Candice Swanepoel03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93E31A1845E8004907A2 /* Candice Swanepoel03.jpg */; };
+		2ECC93F51A1845E8004907A2 /* Candice Swanepoel04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93E41A1845E8004907A2 /* Candice Swanepoel04.jpg */; };
+		2ECC93F61A1845E8004907A2 /* Candice Swanepoel05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93E51A1845E8004907A2 /* Candice Swanepoel05.jpg */; };
+		2ECC93F71A1845E8004907A2 /* Lily Aldridge01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93E71A1845E8004907A2 /* Lily Aldridge01.jpg */; };
+		2ECC93F81A1845E8004907A2 /* Lily Aldridge02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93E81A1845E8004907A2 /* Lily Aldridge02.jpg */; };
+		2ECC93F91A1845E8004907A2 /* Lily Aldridge03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93E91A1845E8004907A2 /* Lily Aldridge03.jpg */; };
+		2ECC93FA1A1845E8004907A2 /* Lily Aldridge04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93EA1A1845E8004907A2 /* Lily Aldridge04.jpg */; };
+		2ECC93FB1A1845E8004907A2 /* Lily Aldridge05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93EB1A1845E8004907A2 /* Lily Aldridge05.jpg */; };
+		2ECC93FC1A1845E8004907A2 /* Lindsay Ellingson01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93ED1A1845E8004907A2 /* Lindsay Ellingson01.jpg */; };
+		2ECC93FD1A1845E8004907A2 /* Lindsay Ellingson02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93EE1A1845E8004907A2 /* Lindsay Ellingson02.jpg */; };
+		2ECC93FE1A1845E8004907A2 /* Lindsay Ellingson03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93EF1A1845E8004907A2 /* Lindsay Ellingson03.jpg */; };
+		2ECC93FF1A1845E8004907A2 /* Lindsay Ellingson04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93F01A1845E8004907A2 /* Lindsay Ellingson04.jpg */; };
+		2ECC94001A1845E8004907A2 /* Lindsay Ellingson05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC93F11A1845E8004907A2 /* Lindsay Ellingson05.jpg */; };
+		2ECC94021A184817004907A2 /* like.png in Resources */ = {isa = PBXBuildFile; fileRef = 2ECC94011A184817004907A2 /* like.png */; };
+		BB7195081A17280A00F5F045 /* clockred.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB7195071A17280A00F5F045 /* clockred.jpg */; };
 		BB8540471A15D58A0052C264 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8540461A15D58A0052C264 /* AppDelegate.swift */; };
-		BB8540491A15D58A0052C264 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8540481A15D58A0052C264 /* ViewController.swift */; };
-		BB85404C1A15D58A0052C264 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB85404A1A15D58A0052C264 /* Main.storyboard */; };
 		BB85404E1A15D58A0052C264 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB85404D1A15D58A0052C264 /* Images.xcassets */; };
 		BB8540511A15D58A0052C264 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BB85404F1A15D58A0052C264 /* LaunchScreen.xib */; };
 		BB85405D1A15D58B0052C264 /* RecipeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB85405C1A15D58B0052C264 /* RecipeTests.swift */; };
+		BB8540671A15D61E0052C264 /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8540661A15D61E0052C264 /* Recipe.swift */; };
+		BB8540691A15D7570052C264 /* search.png in Resources */ = {isa = PBXBuildFile; fileRef = BB8540681A15D7570052C264 /* search.png */; };
+		BB85406B1A15DC380052C264 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = BB85406A1A15DC380052C264 /* 1.png */; };
+		BB85406D1A15DD210052C264 /* RecipeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB85406C1A15DD210052C264 /* RecipeCell.swift */; };
+		BB85406F1A15E8230052C264 /* This.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB85406E1A15E8230052C264 /* This.swift */; };
+		BB8540771A15E9C70052C264 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB8540701A15E9C70052C264 /* 1.jpg */; };
+		BB8540781A15E9C70052C264 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB8540711A15E9C70052C264 /* 2.jpg */; };
+		BB8540791A15E9C70052C264 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB8540721A15E9C70052C264 /* 3.jpg */; };
+		BB85407A1A15E9C70052C264 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB8540731A15E9C70052C264 /* 4.jpg */; };
+		BB85407B1A15E9C70052C264 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB8540741A15E9C70052C264 /* 5.jpg */; };
+		BB85407C1A15E9C70052C264 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB8540751A15E9C70052C264 /* 6.jpg */; };
+		BB85407D1A15E9C70052C264 /* 7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BB8540761A15E9C70052C264 /* 7.jpg */; };
+		BB8540821A15FDD50052C264 /* p1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BB85407E1A15FDD50052C264 /* p1.jpeg */; };
+		BB8540831A15FDD50052C264 /* p2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BB85407F1A15FDD50052C264 /* p2.jpeg */; };
+		BB8540841A15FDD50052C264 /* p3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BB8540801A15FDD50052C264 /* p3.jpeg */; };
+		BB8540851A15FDD50052C264 /* p4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BB8540811A15FDD50052C264 /* p4.jpeg */; };
+		BBD723881A166EBB004B4C15 /* heard.png in Resources */ = {isa = PBXBuildFile; fileRef = BBD723871A166EBB004B4C15 /* heard.png */; };
+		BBD7238B1A16716C004B4C15 /* mu.png in Resources */ = {isa = PBXBuildFile; fileRef = BBD723891A16716C004B4C15 /* mu.png */; };
+		BBD7238C1A16716C004B4C15 /* person.png in Resources */ = {isa = PBXBuildFile; fileRef = BBD7238A1A16716C004B4C15 /* person.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,16 +60,50 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2ECC93E11A1845E8004907A2 /* Candice Swanepoel01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Candice Swanepoel01.jpg"; sourceTree = "<group>"; };
+		2ECC93E21A1845E8004907A2 /* Candice Swanepoel02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Candice Swanepoel02.jpg"; sourceTree = "<group>"; };
+		2ECC93E31A1845E8004907A2 /* Candice Swanepoel03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Candice Swanepoel03.jpg"; sourceTree = "<group>"; };
+		2ECC93E41A1845E8004907A2 /* Candice Swanepoel04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Candice Swanepoel04.jpg"; sourceTree = "<group>"; };
+		2ECC93E51A1845E8004907A2 /* Candice Swanepoel05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Candice Swanepoel05.jpg"; sourceTree = "<group>"; };
+		2ECC93E71A1845E8004907A2 /* Lily Aldridge01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lily Aldridge01.jpg"; sourceTree = "<group>"; };
+		2ECC93E81A1845E8004907A2 /* Lily Aldridge02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lily Aldridge02.jpg"; sourceTree = "<group>"; };
+		2ECC93E91A1845E8004907A2 /* Lily Aldridge03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lily Aldridge03.jpg"; sourceTree = "<group>"; };
+		2ECC93EA1A1845E8004907A2 /* Lily Aldridge04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lily Aldridge04.jpg"; sourceTree = "<group>"; };
+		2ECC93EB1A1845E8004907A2 /* Lily Aldridge05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lily Aldridge05.jpg"; sourceTree = "<group>"; };
+		2ECC93ED1A1845E8004907A2 /* Lindsay Ellingson01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lindsay Ellingson01.jpg"; sourceTree = "<group>"; };
+		2ECC93EE1A1845E8004907A2 /* Lindsay Ellingson02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lindsay Ellingson02.jpg"; sourceTree = "<group>"; };
+		2ECC93EF1A1845E8004907A2 /* Lindsay Ellingson03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lindsay Ellingson03.jpg"; sourceTree = "<group>"; };
+		2ECC93F01A1845E8004907A2 /* Lindsay Ellingson04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lindsay Ellingson04.jpg"; sourceTree = "<group>"; };
+		2ECC93F11A1845E8004907A2 /* Lindsay Ellingson05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lindsay Ellingson05.jpg"; sourceTree = "<group>"; };
+		2ECC94011A184817004907A2 /* like.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = like.png; sourceTree = SOURCE_ROOT; };
+		BB7195071A17280A00F5F045 /* clockred.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = clockred.jpg; sourceTree = SOURCE_ROOT; };
 		BB8540411A15D58A0052C264 /* Recipe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Recipe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB8540451A15D58A0052C264 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BB8540461A15D58A0052C264 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		BB8540481A15D58A0052C264 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		BB85404B1A15D58A0052C264 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BB85404D1A15D58A0052C264 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		BB8540501A15D58A0052C264 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		BB8540561A15D58A0052C264 /* RecipeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RecipeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB85405B1A15D58B0052C264 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BB85405C1A15D58B0052C264 /* RecipeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTests.swift; sourceTree = "<group>"; };
+		BB8540661A15D61E0052C264 /* Recipe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Recipe.swift; sourceTree = "<group>"; };
+		BB8540681A15D7570052C264 /* search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = search.png; sourceTree = SOURCE_ROOT; };
+		BB85406A1A15DC380052C264 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = SOURCE_ROOT; };
+		BB85406C1A15DD210052C264 /* RecipeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecipeCell.swift; sourceTree = "<group>"; };
+		BB85406E1A15E8230052C264 /* This.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = This.swift; sourceTree = "<group>"; };
+		BB8540701A15E9C70052C264 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = SOURCE_ROOT; };
+		BB8540711A15E9C70052C264 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = SOURCE_ROOT; };
+		BB8540721A15E9C70052C264 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = SOURCE_ROOT; };
+		BB8540731A15E9C70052C264 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = SOURCE_ROOT; };
+		BB8540741A15E9C70052C264 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = SOURCE_ROOT; };
+		BB8540751A15E9C70052C264 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = SOURCE_ROOT; };
+		BB8540761A15E9C70052C264 /* 7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7.jpg; sourceTree = SOURCE_ROOT; };
+		BB85407E1A15FDD50052C264 /* p1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = p1.jpeg; sourceTree = SOURCE_ROOT; };
+		BB85407F1A15FDD50052C264 /* p2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = p2.jpeg; sourceTree = SOURCE_ROOT; };
+		BB8540801A15FDD50052C264 /* p3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = p3.jpeg; sourceTree = SOURCE_ROOT; };
+		BB8540811A15FDD50052C264 /* p4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = p4.jpeg; sourceTree = SOURCE_ROOT; };
+		BBD723871A166EBB004B4C15 /* heard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = heard.png; sourceTree = SOURCE_ROOT; };
+		BBD723891A16716C004B4C15 /* mu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mu.png; sourceTree = SOURCE_ROOT; };
+		BBD7238A1A16716C004B4C15 /* person.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = person.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +124,46 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2ECC93E01A1845E8004907A2 /* Candice Swanepoel */ = {
+			isa = PBXGroup;
+			children = (
+				2ECC93E11A1845E8004907A2 /* Candice Swanepoel01.jpg */,
+				2ECC93E21A1845E8004907A2 /* Candice Swanepoel02.jpg */,
+				2ECC93E31A1845E8004907A2 /* Candice Swanepoel03.jpg */,
+				2ECC93E41A1845E8004907A2 /* Candice Swanepoel04.jpg */,
+				2ECC93E51A1845E8004907A2 /* Candice Swanepoel05.jpg */,
+			);
+			path = "Candice Swanepoel";
+			sourceTree = SOURCE_ROOT;
+		};
+		2ECC93E61A1845E8004907A2 /* Lily Aldridge */ = {
+			isa = PBXGroup;
+			children = (
+				2ECC93E71A1845E8004907A2 /* Lily Aldridge01.jpg */,
+				2ECC93E81A1845E8004907A2 /* Lily Aldridge02.jpg */,
+				2ECC93E91A1845E8004907A2 /* Lily Aldridge03.jpg */,
+				2ECC93EA1A1845E8004907A2 /* Lily Aldridge04.jpg */,
+				2ECC93EB1A1845E8004907A2 /* Lily Aldridge05.jpg */,
+			);
+			path = "Lily Aldridge";
+			sourceTree = SOURCE_ROOT;
+		};
+		2ECC93EC1A1845E8004907A2 /* Lindsay Ellingson */ = {
+			isa = PBXGroup;
+			children = (
+				2ECC93ED1A1845E8004907A2 /* Lindsay Ellingson01.jpg */,
+				2ECC93EE1A1845E8004907A2 /* Lindsay Ellingson02.jpg */,
+				2ECC93EF1A1845E8004907A2 /* Lindsay Ellingson03.jpg */,
+				2ECC93F01A1845E8004907A2 /* Lindsay Ellingson04.jpg */,
+				2ECC93F11A1845E8004907A2 /* Lindsay Ellingson05.jpg */,
+			);
+			path = "Lindsay Ellingson";
+			sourceTree = SOURCE_ROOT;
+		};
 		BB8540381A15D58A0052C264 = {
 			isa = PBXGroup;
 			children = (
+				BBDFF0021A18091600FFFD6E /* Resources */,
 				BB8540431A15D58A0052C264 /* Recipe */,
 				BB8540591A15D58A0052C264 /* RecipeTests */,
 				BB8540421A15D58A0052C264 /* Products */,
@@ -78,8 +183,9 @@
 			isa = PBXGroup;
 			children = (
 				BB8540461A15D58A0052C264 /* AppDelegate.swift */,
-				BB8540481A15D58A0052C264 /* ViewController.swift */,
-				BB85404A1A15D58A0052C264 /* Main.storyboard */,
+				BB8540661A15D61E0052C264 /* Recipe.swift */,
+				BB85406C1A15DD210052C264 /* RecipeCell.swift */,
+				BB85406E1A15E8230052C264 /* This.swift */,
 				BB85404D1A15D58A0052C264 /* Images.xcassets */,
 				BB85404F1A15D58A0052C264 /* LaunchScreen.xib */,
 				BB8540441A15D58A0052C264 /* Supporting Files */,
@@ -110,6 +216,35 @@
 				BB85405B1A15D58B0052C264 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BBDFF0021A18091600FFFD6E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2ECC93E01A1845E8004907A2 /* Candice Swanepoel */,
+				2ECC93E61A1845E8004907A2 /* Lily Aldridge */,
+				2ECC93EC1A1845E8004907A2 /* Lindsay Ellingson */,
+				BB8540701A15E9C70052C264 /* 1.jpg */,
+				BB8540711A15E9C70052C264 /* 2.jpg */,
+				BB8540721A15E9C70052C264 /* 3.jpg */,
+				BB8540731A15E9C70052C264 /* 4.jpg */,
+				2ECC94011A184817004907A2 /* like.png */,
+				BB8540741A15E9C70052C264 /* 5.jpg */,
+				BB8540751A15E9C70052C264 /* 6.jpg */,
+				BB8540761A15E9C70052C264 /* 7.jpg */,
+				BB85407E1A15FDD50052C264 /* p1.jpeg */,
+				BB85407F1A15FDD50052C264 /* p2.jpeg */,
+				BB8540801A15FDD50052C264 /* p3.jpeg */,
+				BB8540811A15FDD50052C264 /* p4.jpeg */,
+				BB8540681A15D7570052C264 /* search.png */,
+				BB85406A1A15DC380052C264 /* 1.png */,
+				BBD723871A166EBB004B4C15 /* heard.png */,
+				BBD723891A16716C004B4C15 /* mu.png */,
+				BBD7238A1A16716C004B4C15 /* person.png */,
+				BB7195071A17280A00F5F045 /* clockred.jpg */,
+			);
+			name = Resources;
+			path = Recipe;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,9 +327,41 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BB85404C1A15D58A0052C264 /* Main.storyboard in Resources */,
+				2ECC93F61A1845E8004907A2 /* Candice Swanepoel05.jpg in Resources */,
+				BBD723881A166EBB004B4C15 /* heard.png in Resources */,
+				BB8540821A15FDD50052C264 /* p1.jpeg in Resources */,
+				BB85407D1A15E9C70052C264 /* 7.jpg in Resources */,
+				2ECC93FA1A1845E8004907A2 /* Lily Aldridge04.jpg in Resources */,
+				2ECC93F81A1845E8004907A2 /* Lily Aldridge02.jpg in Resources */,
+				2ECC93F31A1845E8004907A2 /* Candice Swanepoel02.jpg in Resources */,
+				BB8540831A15FDD50052C264 /* p2.jpeg in Resources */,
+				2ECC93FE1A1845E8004907A2 /* Lindsay Ellingson03.jpg in Resources */,
+				2ECC93FC1A1845E8004907A2 /* Lindsay Ellingson01.jpg in Resources */,
+				BB85407A1A15E9C70052C264 /* 4.jpg in Resources */,
+				2ECC94021A184817004907A2 /* like.png in Resources */,
+				BB8540781A15E9C70052C264 /* 2.jpg in Resources */,
+				BBD7238C1A16716C004B4C15 /* person.png in Resources */,
 				BB8540511A15D58A0052C264 /* LaunchScreen.xib in Resources */,
+				2ECC93FF1A1845E8004907A2 /* Lindsay Ellingson04.jpg in Resources */,
+				2ECC93F21A1845E8004907A2 /* Candice Swanepoel01.jpg in Resources */,
+				2ECC93F71A1845E8004907A2 /* Lily Aldridge01.jpg in Resources */,
+				2ECC93F91A1845E8004907A2 /* Lily Aldridge03.jpg in Resources */,
+				BB8540851A15FDD50052C264 /* p4.jpeg in Resources */,
+				BB85407B1A15E9C70052C264 /* 5.jpg in Resources */,
+				2ECC93F51A1845E8004907A2 /* Candice Swanepoel04.jpg in Resources */,
+				2ECC93F41A1845E8004907A2 /* Candice Swanepoel03.jpg in Resources */,
+				BB85407C1A15E9C70052C264 /* 6.jpg in Resources */,
+				BB7195081A17280A00F5F045 /* clockred.jpg in Resources */,
+				BBD7238B1A16716C004B4C15 /* mu.png in Resources */,
+				BB8540841A15FDD50052C264 /* p3.jpeg in Resources */,
+				BB85406B1A15DC380052C264 /* 1.png in Resources */,
+				BB8540691A15D7570052C264 /* search.png in Resources */,
+				2ECC94001A1845E8004907A2 /* Lindsay Ellingson05.jpg in Resources */,
+				2ECC93FB1A1845E8004907A2 /* Lily Aldridge05.jpg in Resources */,
 				BB85404E1A15D58A0052C264 /* Images.xcassets in Resources */,
+				BB8540791A15E9C70052C264 /* 3.jpg in Resources */,
+				BB8540771A15E9C70052C264 /* 1.jpg in Resources */,
+				2ECC93FD1A1845E8004907A2 /* Lindsay Ellingson02.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,8 +379,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BB8540491A15D58A0052C264 /* ViewController.swift in Sources */,
+				BB85406D1A15DD210052C264 /* RecipeCell.swift in Sources */,
+				BB85406F1A15E8230052C264 /* This.swift in Sources */,
 				BB8540471A15D58A0052C264 /* AppDelegate.swift in Sources */,
+				BB8540671A15D61E0052C264 /* Recipe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -236,14 +405,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		BB85404A1A15D58A0052C264 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				BB85404B1A15D58A0052C264 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		BB85404F1A15D58A0052C264 /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -407,6 +568,7 @@
 				BB8540621A15D58B0052C264 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BB8540631A15D58B0052C264 /* Build configuration list for PBXNativeTarget "RecipeTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +577,7 @@
 				BB8540651A15D58B0052C264 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
